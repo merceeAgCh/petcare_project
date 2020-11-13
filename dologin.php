@@ -3,7 +3,7 @@
   doLogin.php
   Script en PHP que revisa los datos ingresados por el usuario
   Si el Login y el Password coinciden, redirige el navegador a
-  "menu.html", de lo contrario lo redirige a "login.html"
+  "index.html", de lo contrario lo redirige a "login.html"
 */
 
 // si coincide el login y el password
