@@ -1,6 +1,21 @@
 ### Plantilla usada y modificada para el proyecto Intranets PETCARE
 ## Alumnas: Mercedes AC, Lizbeth VA y Leisly CV
 ## Universidad UCAD, 9° Cuatrimestre, Ing. en Sistemas Computacionales.
+##Paginas en funcion
+Las páginas de funcionamiento de este proyecto en su primer etapa son:
+login.html
+forgot-password.html
+index.html
+tables.html(empleados)
+mascotas.html
+ventas.html
+register.html
+##
+##Paginas que se encuentran en el sidebar sin funcion
+En el sidebar tenemos una seccion de ADDONS
+Esta es de manera colapsable y tiene opciones de paginas que no funcionaran.
+Se deja para posteriormente darle un uso.
+##
 
  [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
